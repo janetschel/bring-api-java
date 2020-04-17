@@ -43,6 +43,7 @@ public class Example(){
         
         // Delete a product from a list
         myList.removeProduct(myNewProduct);
+	
     }
 }
 ```
@@ -59,6 +60,7 @@ public class Example(){
         bringApi.login("email", "password");
         
         // ...        
+	
     }
 }
 ``` 
@@ -76,6 +78,7 @@ public class Example(){
         List<User> users = myList.getAllUsers();
         
         // ...        
+	
     }
 }
 
