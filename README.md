@@ -10,7 +10,7 @@ app which lets you interact with the Bring! servers.
 ## Usage
 First you need to add the [.jar](https://github.com/janetschel/bring-api-java/releases/tag/v1.0) to your classpath.
 
-If your project is managed by maven you can add the .jar the following way if (you have added the .jar to your /resource folder):
+If your project is managed by maven you can add the .jar the following way (if you have added the .jar to your /resource folder. *I'm working on getting it to work with automatic maven download*):
 ```xml
 <dependency>
 	<groupId>com.janetschel</groupId>
