@@ -1,5 +1,5 @@
 ## Unoffical Bring! Api
-### Prequesit
+### Preface
 Bring! is an pretty popular grocery shopping app developed in Switzerland and mainly used in Germany, Austria and Switzerland.
 
 Sadly Bring! does not offer a public API to interact with and build own applications which make requests to their servers.
@@ -64,4 +64,4 @@ It also is not complete so there may be some features I did not implement yet. Y
 Any new ideas? Let me know!
 
 ### Status
-It works with the latest version of Bring!. I will test it with every new version
+✅ It works with the latest version of Bring!. I will test it with every new version
