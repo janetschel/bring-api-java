@@ -1,6 +1,6 @@
 # Unoffical Bring!-Api 🇨🇭
 ## Preface
-Bring! is an pretty popular grocery shopping app developed in Switzerland and mainly used in Germany, Austria and Switzerland.
+Bring! is a pretty popular grocery shopping app developed in Switzerland and mainly used in Germany, Austria and Switzerland.
 
 Sadly Bring! does not offer a public API to interact with and build own applications which make requests to their servers.
 
