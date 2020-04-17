@@ -1,4 +1,4 @@
-# Unoffical Bring!-Api
+# Unoffical Bring!-Api 🇨🇭
 ## Preface
 Bring! is an pretty popular grocery shopping app developed in Switzerland and mainly used in Germany, Austria and Switzerland.
 
