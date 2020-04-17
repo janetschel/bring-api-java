@@ -8,7 +8,7 @@ Since I needed an API to connect to Bring! servers and perform requests for anot
 app which lets you interact with the Bring! servers.
 
 ## Usage
-First you need to add the .jar to your classpath.
+First you need to add the [.jar](https://github.com/janetschel/bring-api-java/releases/tag/v1.0) to your classpath.
 
 If your project is managed by maven you can add the .jar the following way if (you have added the .jar to your /resource folder):
 ```xml
