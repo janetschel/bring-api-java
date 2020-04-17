@@ -13,8 +13,8 @@ First you need to add the .jar to your classpath.
 If your project is managed by maven you can add the .jar the following way if (you have added the .jar to your /resource folder):
 ```xml
 <dependency>
-    <groupId>com.janetschel</groupId>
-    <artifactId>bring-api</artifactId>
+	<groupId>com.janetschel</groupId>
+   	<artifactId>bring-api</artifactId>
 	<version>1.0</version>
 	<scope>system</scope>
 	<systemPath>${project.basedir}/src/main/resources/bring-api-1.0.jar</systemPath>
