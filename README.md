@@ -1,5 +1,5 @@
-## Unoffical Bring! Api
-### Preface
+# Unoffical Bring!-Api
+## Preface
 Bring! is an pretty popular grocery shopping app developed in Switzerland and mainly used in Germany, Austria and Switzerland.
 
 Sadly Bring! does not offer a public API to interact with and build own applications which make requests to their servers.
@@ -7,7 +7,7 @@ Sadly Bring! does not offer a public API to interact with and build own applicat
 Since I needed an API to connect to Bring! servers and perform requests for another project of mine, I build this little **unofficial**
 app which lets you interact with the Bring! servers.
 
-### Usage
+## Usage
 First you need to add the .jar to your classpath.
 
 After that you can use it like that:
@@ -76,12 +76,12 @@ In this example I used the `@SneakyThrows` annotation from lombok so I don't hav
 
 You have to catch and handle those exceptions by yourself (or annotate your method with at `@SneakyThrows` if your application allows that without it being to dirty)
 
-### Headsup
+## Heads-Up
 Please note that this is an **unofficial** API, and I am in no way associated with this company.
 
 It also is not complete so there may be some features I did not implement yet. You can always contribute to this project by simply opening an issue or PR.
 
 Any new ideas? Let me know!
 
-### Status
+## Status
 ✅ It works with the latest version of Bring!. I will test it with every new version
