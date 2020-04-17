@@ -51,7 +51,27 @@ public class Example(){
     }
 }
 ``` 
-Please be aware of the exceptions thrown by the methods.
+
+There is also the option to get all users sharing a list:
+```Java
+public class Example(){
+
+    @SneakyThrows
+    public static void main(String[] args){
+       
+        // ...
+        
+        // Get users
+        List<User> users = myList.getAllUsers();
+        
+        // ...        
+    }
+}
+
+```
+
+
+Please be aware of the exceptions thrown by these methods.
 In this example I used the `@SneakyThrows` annotation from lombok so I don't have a massive overhead using try-catch etc.
 
 You have to catch and handle those exceptions by yourself (or annotate your method with at `@SneakyThrows` if your application allows that without it being to dirty)
