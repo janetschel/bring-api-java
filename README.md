@@ -31,7 +31,7 @@ public class Example(){
         
         // Basic login
         BringApi bringApi = new BringApi("email", "password");
-        bringApi.loadLists(); // needs to be called before getLists() or getList("...") can be called. Think of it like a fetch
+        bringApi.loadLists(); // needs to be called before getLists() or getList("...") can be called
         BringList myList = bringApi.getList("listName");
         
         // Get all products from a list
