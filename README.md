@@ -95,7 +95,7 @@ Please note that this is an **unofficial** API, and I am in no way associated wi
 
 It also is not complete so there may be some features I did not implement yet. You can always contribute to this project by simply opening an issue or PR.
 
-Any new ideas? Let me know! I'm working on it
+Any new ideas? Let me know
 
 ## Status
 ✅ It works with the latest version of Bring!. I will test it with every new version
